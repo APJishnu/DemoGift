@@ -81,9 +81,7 @@
     
     position:absolute;
     top: 5%;
-    -webkit-box-shadow: 0 0 7px #fffd;
-            box-shadow: 0 0 7px #fffd;
-    -webkit-box-reflect: below 10px linear-gradient(transparent, transparent, #0007);
+    left:4%;
   }
   @-webkit-keyframes spin {
     from{
